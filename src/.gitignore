@@ -1,0 +1,12 @@
+# C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.log
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+AdventureGame
